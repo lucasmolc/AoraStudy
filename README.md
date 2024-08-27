@@ -45,7 +45,7 @@ e muito mais, incluindo arquitetura de código e capacidade de reutilização
 
 Siga estas etapas para configurar o projeto localmente em sua máquina.
 
-**Prerequisites**
+**Pré-Requisitos**
 
 Certifique-se de ter o seguinte instalado em sua máquina:
 
@@ -59,7 +59,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 git clone [URL](https://github.com/lucasmolc/AoraStudy.git)
 cd [Folder]
 ```
-**Installation**
+**Instalação**
 
 Instale as dependências do projeto usando npm:
 
