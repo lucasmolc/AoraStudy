@@ -58,7 +58,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone URL
+git clone [URL](https://github.com/lucasmolc/AoraStudy.git)
 cd [Folder]
 ```
 **Installation**
