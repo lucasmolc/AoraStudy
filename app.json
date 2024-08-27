@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "package": "com.lcms.aora"
+    },
+    "android": {
+      "package": "com.lcms.aora"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "CNH-E",
+    "slug": "CNH-E"
+  }
+}
