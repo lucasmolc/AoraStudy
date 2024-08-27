@@ -1,17 +1,15 @@
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
+1. 🤖 [Introdução](#introduction)
+2. ⚙️ [Tecnologias](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">🤖 Introdução</a>
 
-Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, 
-this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
+Construído com React Native para experiências de usuário perfeitas, Animatable para animações cativantes e integrado com os sistemas de backend confiáveis ​​do Appwrite, 
+este aplicativo apresenta design e funcionalidade impressionantes, permitindo o compartilhamento contínuo de vídeos de IA dentro da comunidade.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Tecnologias</a>
 
 - React Native
 - Expo
@@ -21,41 +19,41 @@ this app showcases impressive design and functionality, enabling seamless sharin
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
+👉 **Tela de integração**: gráficos envolventes e instruções claras dão as boas-vindas aos usuários no aplicativo.
 
-👉 **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
+👉 **Sistema robusto de autenticação e autorização**: O login seguro por e-mail protege as contas dos usuários
 
-👉 **Dynamic Home Screen with Animated Flat List**: Smoothly animated flat list showcases the latest videos for seamless browsing.
+👉 **Tela inicial dinâmica com lista plana animada**: uma lista plana suavemente animada mostra os vídeos mais recentes para uma navegação perfeita.
 
-👉 **Pull-to-Refresh Functionality**: Users can refresh content with a simple pull gesture for up-to-date information.
+👉 **Funcionalidade de puxar para atualizar**: os usuários podem atualizar o conteúdo com um simples gesto de puxar para obter informações atualizadas.
 
-👉 **Full-Text Search Capability**: Efficiently search through videos with real-time suggestions and instant results.
+👉 **Recurso de pesquisa de texto completo**: pesquise vídeos de maneira eficiente com sugestões em tempo real e resultados instantâneos.
 
-👉 **Tab Navigation**: Navigate between sections like Home, Search, and Profile with ease using tab navigation.
+👉 **Navegação por guias**: navegue entre seções como Página inicial, Pesquisa e Perfil com facilidade usando a navegação por guias.
 
-👉 **Post Creation Screen for Uploading Media**: Upload video and image posts directly from the app with integrated media selection.
+👉 **Tela de pós-criação para upload de mídia**: carregue postagens de vídeo e imagem diretamente do aplicativo com seleção de mídia integrada.
 
-👉 **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
+👉 **Tela de perfil com informações detalhadas**: visualize detalhes e atividades da conta, incluindo vídeos enviados e contagem de seguidores, para uma experiência personalizada.
 
-👉 **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
+👉 **Capacidade de resposta**: desempenho suave e adaptabilidade em vários dispositivos e tamanhos de tela para uma experiência de usuário consistente.
 
-👉 **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
+👉 **Animações**: animações dinâmicas usando a biblioteca Animatable para melhorar a interação e o envolvimento do usuário em toda a interface do aplicativo.
 
-and many more, including code architecture and reusability 
+e muito mais, incluindo arquitetura de código e capacidade de reutilização
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+Siga estas etapas para configurar o projeto localmente em sua máquina.
 
 **Prerequisites**
 
-Make sure you have the following installed on your machine:
+Certifique-se de ter o seguinte instalado em sua máquina:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
+**Clonando o Repositório**
 
 ```bash
 git clone [URL](https://github.com/lucasmolc/AoraStudy.git)
@@ -63,13 +61,13 @@ cd [Folder]
 ```
 **Installation**
 
-Install the project dependencies using npm:
+Instale as dependências do projeto usando npm:
 
 ```bash
 npm install
 ```
 
-**Running the Project**
+**Executando o Projeto**
 
 ```bash
 npm start
@@ -77,4 +75,4 @@ npm start
 
 **Expo Go**
 
-Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
+Baixe o aplicativo [Expo Go](https://expo.dev/go) em seu dispositivo, use-o para escanear o código QR do Terminal e execute.
